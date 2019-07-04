@@ -1,0 +1,28 @@
+.app-header a {
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    font-family: Roboto, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-transform: uppercase;
+    padding: 21px 0;
+    text-decoration: none;
+}
+
+a.nav-link {
+    margin: 0 10px;
+    padding: 24px 0;
+    cursor: pointer;
+}
+
+a.active {
+    background: #666;
+}
+
+a:hover {
+    background: #999;
+}
+
+
+.nav-link-inner {
+    padding: 8px 16px;
+}
